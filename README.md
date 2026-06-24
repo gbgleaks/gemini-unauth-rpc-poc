@@ -3,7 +3,7 @@
 This repository demonstrates an architectural vulnerability allowing unauthenticated access to Gemini's production infrastructure. As a practical Proof of Concept (PoC), this implementation turns the undocumented backend into a free, high-speed automated captcha-solving engine.
 
 ## Research Credits
-* **Lead Developer:** Adnan Awan
+* **Lead Developer:** Adnan Awan ( gbgleaks@gmail.com )
 * **Project Suite:** Kaptch.com
 * **Location:** Karachi, Pakistan
 
