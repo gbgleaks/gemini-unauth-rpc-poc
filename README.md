@@ -8,6 +8,7 @@ This repository demonstrates an architectural vulnerability allowing unauthentic
 * **Location:** Karachi, Pakistan
 
 Demo online : https://www.kaptch.com
+
 Source code : "index.php" already uploaded you can download
 
 ## Technical Context (Why this matters)
