@@ -8,6 +8,7 @@ This repository demonstrates an architectural vulnerability allowing unauthentic
 * **Location:** Karachi, Pakistan
 
 Demo online : https://www.kaptch.com
+Source code : "index.php" already uploaded you can download
 
 ## Technical Context (Why this matters)
 Google infrastructure uses extensive anti-bot filtering, yet this undocumented endpoint allows direct programmatic inference loops without any API tokens or account handshakes. This PoC proves that developers can feed raw text/logic descriptions of captcha challenges directly to the endpoint and retrieve accurate text solutions programmatically, shifting heavy computing costs onto Google unauthorized.
